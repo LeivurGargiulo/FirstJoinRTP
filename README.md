@@ -1,6 +1,6 @@
-# RandomTeleport
+# FirstJoinRTP  
 
-RandomTeleport is a lightweight Paper plugin that automatically teleports players to random safe locations within a configurable area when they first join a specific world. Perfect for survival servers where you want players to start in random locations rather than at spawn.
+FirstJoinRTP is a lightweight Paper plugin that automatically teleports players to random safe locations within a configurable area when they first join a specific world. Perfect for survival servers where you want players to start in random locations rather than at spawn.
 
 ## Features
 
