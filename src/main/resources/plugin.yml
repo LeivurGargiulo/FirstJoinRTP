@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}
+main: com.randomteleport.RandomTeleportPlugin
+api-version: 1.20
+description: Teleports players to random locations when they first join a configured world
+author: RandomTeleport
